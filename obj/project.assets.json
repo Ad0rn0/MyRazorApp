@@ -8,27 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tasilva\\.nuget\\packages\\": {}
+    "C:\\Users\\te-ti\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\CSharp\\MyRazorApp\\MyRazorApp.csproj",
+      "projectUniqueName": "C:\\dev\\MyRazorApp\\MyRazorApp.csproj",
       "projectName": "MyRazorApp",
-      "projectPath": "C:\\dev\\CSharp\\MyRazorApp\\MyRazorApp.csproj",
-      "packagesPath": "C:\\Users\\tasilva\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\CSharp\\MyRazorApp\\obj\\",
+      "projectPath": "C:\\dev\\MyRazorApp\\MyRazorApp.csproj",
+      "packagesPath": "C:\\Users\\te-ti\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\MyRazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tasilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\te-ti\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,7 +42,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
+        "auditMode": "all"
       }
     },
     "frameworks": {
@@ -70,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
